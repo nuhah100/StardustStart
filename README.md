@@ -4,6 +4,8 @@
 
 StardustStart is not just another Windows 11 start menu customization tool; it's your ticket to a personalized and animated start button experience. Wave goodbye to the mundane default start button and say hello to a world of animated possibilities!
 
+![Preview Image](Assets\preview.png)
+
 ## About
 
 Ever felt like your start button was missing a bit of flair? This is the program for you!
