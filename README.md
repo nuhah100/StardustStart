@@ -20,10 +20,6 @@ This tool has bravely faced the challenges of Windows 11 22H2 and 23H2, but it's
 
 Currently, installation is global for all users on the computer and requires administrative privileges.
 
-### Using the UI
-
-Slide the UI slider like a boss to install/uninstall. Patience, young padawan, it might take a few seconds – just enough time for a dramatic pause.
-
 ### Manual Installation
 
 For a scripted deployment, manually perform the following steps:
