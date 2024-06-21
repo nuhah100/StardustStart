@@ -1,4 +1,4 @@
-# StardustStart - Windows 11 Start Menu Customization Patch
+# StardustStart - WIN11 Start Menu Customization Patch
 
 ## Overview
 
